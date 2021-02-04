@@ -1,8 +1,9 @@
 """
 CTEC 121
+<date: ex: mm/dd/yyyy>
 <your name>
-<assignment/lab name>
-<assignment/lab description
+<Name: assignment/lab name>
+<Description: assignment/lab description
 """
 
 """ IPO template
