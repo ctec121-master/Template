@@ -1,9 +1,9 @@
 """
 CTEC 121
-<date: ex: mm/dd/yyyy>
+date: <ex: mm/dd/yyyy>
 <your name>
-<Name: assignment/lab name>
-<Description: assignment/lab description
+Name: <assignment/lab name>
+Description: <assignment/lab description
 """
 
 """ IPO template
@@ -12,7 +12,9 @@ Process: description of what function does
 Output: return value and description
 """
 
+
 def main():
     # code here
 
-main()    
+
+main()
