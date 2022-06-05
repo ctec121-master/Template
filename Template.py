@@ -1,17 +1,22 @@
 """
 CTEC 121
-date: <ex: mm/dd/yyyy>
 <your name>
-Name: <assignment/lab name>
-Description: <assignment/lab description>
-"""
+date: <ex: mm/dd/yyyy>
+Description: <assignment or problem title>
 
-""" IPO template
-Input(s): list/description
-Process: description of what function does
-Output: return value and description
-"""
+Update the comment lines above then delete this and the following lines
+Example 1:
+CTEC 121
+Bill Baker
+date: 7/11/2022
+Description: Programming Assignment 1 - Task 1
 
+Example 2:
+CTEC 121
+Bill Baker
+date: 7/11/2022
+Description: Class Demo 07/11
+"""
 
 def main():
     # code here
